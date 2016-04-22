@@ -44,6 +44,10 @@
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\src\\main\\res\\layout\\activity_my.xml"
     },
     {
+        "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_activity_update.xml",
+        "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_activity_update.xml"
+    },
+    {
         "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -72,6 +76,10 @@
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_activity_login.xml",
+        "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_activity_login.xml"
+    },
+    {
         "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
@@ -82,6 +90,10 @@
     {
         "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_fragment_update.xml",
+        "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_fragment_update.xml"
     },
     {
         "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -112,8 +124,20 @@
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_view_feedback_message.xml",
+        "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_view_feedback_message.xml"
+    },
+    {
+        "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_activity_expiry_info.xml",
+        "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_activity_expiry_info.xml"
+    },
+    {
         "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_activity_feedback.xml",
+        "source": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_activity_feedback.xml"
     },
     {
         "merged": "D:\\Android (1)\\DoubleClickBanner1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",

@@ -22,7 +22,7 @@ import android.view.MenuItem;
 
 import com.google.android.gms.ads.doubleclick.PublisherAdRequest;
 import com.google.android.gms.ads.doubleclick.PublisherAdView;
-
+import net.hockeyapp.android.CrashManager;
 /**
  * Main Activity. Inflates main activity xml and child fragments.
  */
@@ -88,9 +88,17 @@ public class MyActivity extends ActionBarActivity {
     /** Called before the activity is destroyed */
     @Override
     public void onDestroy() {
+        checkForCrashes();
         if (mAdView != null) {
             mAdView.destroy();
         }
         super.onDestroy();
     }
+    /** Called before the activity is destroyed */
+
+
+    private void checkForCrashes() {
+        CrashManager.register(this);
+    }
+
 }
