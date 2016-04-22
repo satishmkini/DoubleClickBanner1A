@@ -19,6 +19,7 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 import com.google.android.gms.ads.doubleclick.PublisherAdRequest;
 import com.google.android.gms.ads.doubleclick.PublisherAdView;
@@ -75,7 +76,12 @@ public class MyActivity extends ActionBarActivity {
         }
         super.onPause();
     }
-
+    public void onButtonClick ( View v)
+    {
+        int num1 = 0;
+        int num2 = 0;
+        int num3 = num1/num2;
+    }
     /** Called when returning to the activity */
     @Override
     public void onResume() {
